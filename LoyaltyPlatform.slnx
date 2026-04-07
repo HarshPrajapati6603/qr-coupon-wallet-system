@@ -1,6 +1,0 @@
-<Solution>
-  <Project Path="LoyaltyPlatform.API/LoyaltyPlatform.API.csproj" />
-  <Project Path="LoyaltyPlatform.Application/LoyaltyPlatform.Application.csproj" />
-  <Project Path="LoyaltyPlatform.Domain/LoyaltyPlatform.Domain.csproj" />
-  <Project Path="LoyaltyPlatform.Infrastructure/LoyaltyPlatform.Infrastructure.csproj" />
-</Solution>
